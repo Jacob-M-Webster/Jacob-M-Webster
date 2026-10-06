@@ -1,6 +1,6 @@
 # Hi, I'm Jake
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&pause=1000&color=2563EB&width=720&lines=CS+%40+University+of+South+Carolina+%C2%B7+May+2027;Autonomy+%C2%B7+Perception+%C2%B7+Robotics;Building+a+1%2F10-scale+autonomous+car)](https://jakewebster.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&pause=1000&color=2563EB&width=720&lines=CS+%40+University+of+South+Carolina+%C2%B7+May+2027;Autonomy+%C2%B7+Perception+%C2%B7+Robotics)](https://jakewebster.dev)
  
 I enjoy building software for machines that move - Currently focused on autonomous vehicles.
  
